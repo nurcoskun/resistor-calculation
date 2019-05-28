@@ -1,0 +1,7 @@
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\obj\x86\Debug\direnc_hesaplama_projesi.Form1.resources
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\obj\x86\Debug\direnc_hesaplama_projesi.Properties.Resources.resources
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\obj\x86\Debug\direnc_hesaplama_projesi.csproj.GenerateResource.Cache
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\bin\Debug\direnc_hesaplama_projesi.exe
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\bin\Debug\direnc_hesaplama_projesi.pdb
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\obj\x86\Debug\direnc_hesaplama_projesi.exe
+c:\users\esma nur\documents\visual studio 2010\Projects\direnc_hesaplama_projesi\direnc_hesaplama_projesi\obj\x86\Debug\direnc_hesaplama_projesi.pdb
